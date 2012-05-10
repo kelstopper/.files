@@ -1,0 +1,24 @@
+/[A-Z]*
+.CFUserTextEncoding
+.DS_Store
+.Trash
+.account
+.bash_history
+.cups/
+.dot.git/
+.dropbox/
+.esets/
+.gem
+.gnupg
+.lesshst
+.pow
+.rbenv/
+.rnd
+.showoffrc
+.ssh
+!.ssh/config
+.viminfo
+.Motorola Mobility/
+.android/
+.psql_history
+.gstreamer-0.10/
