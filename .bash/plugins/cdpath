@@ -1,1 +1,6 @@
 export CDPATH=.:$HOME/Sites:$HOME/Projects:$HOME
+
+# cygwin paths
+if [ -d /cygdrive ]; then
+  export CDPATH=.:/cygdrive/f:"/cygdrive/c/Users/kel.stopper/My Documents/Visual Studio 2010/Projects":$HOME 
+fi
