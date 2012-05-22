@@ -4,14 +4,17 @@
 .Trash
 .account
 .bash_history
+.bashrc
 .cups/
 .dot.git/
 .dropbox/
 .esets/
 .gem
 .gnupg
+.inputrc
 .lesshst
 .pow
+.profile
 .rbenv/
 .rnd
 .showoffrc
