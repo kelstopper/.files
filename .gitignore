@@ -23,3 +23,7 @@
 .psql_history
 .gstreamer-0.10/
 .vim/.netrwhist
+.deltafy/
+.eclipse/
+.vagrant.d/
+.vim/*
