@@ -7,3 +7,7 @@ if [ "$PS1" != "" ]; then
   
   shopt -s histappend
 fi
+
+if [ -f "${HOME}/.bashrc" ] ; then
+  source "${HOME}/.bashrc"
+fi
