@@ -1,1 +1,1 @@
-export PATH=$PATH:/usr/local/android-sdk-macosx/tools
+export PATH=$PATH:/usr/local/android-sdk-macosx/tools:/usr/local/android-sdk-macosx/platform-tools
