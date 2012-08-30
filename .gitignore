@@ -29,4 +29,6 @@
 .deltafy/
 .eclipse/
 .vagrant.d/
-.vim/*
+.filezilla/
+.spumux/
+.swt/
