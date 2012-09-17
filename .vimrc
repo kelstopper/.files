@@ -1,6 +1,6 @@
 " load pathogen
 call pathogen#infect()
-filetype plugin indent on
+" filetype plugin indent on
 
 set expandtab
 set tabstop=2
