@@ -12,3 +12,6 @@ alias be='bundle exec'
 #git
 alias master='git checkout master'
 alias stable='git checkout stable'
+
+#windows
+alias windows='~/Projects/WindowsScripts/windows.sh'

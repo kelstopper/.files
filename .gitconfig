@@ -3,3 +3,5 @@
 [user]
 	name = Kel Stopper
 	email = kel.stopper@mosaic.com
+[push]
+	default = matching

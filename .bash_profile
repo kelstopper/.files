@@ -3,8 +3,8 @@ if [ "$PS1" != "" ]; then
     echo -n "."
     source $f
   done
-  echo 
-  
+  echo
+
   shopt -s histappend
 fi
 
